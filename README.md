@@ -1,1 +1,2 @@
-# SergioCalderon---Guia3---Computacion
+Guía 3 - Sergio Calderón
+Clave: 9
